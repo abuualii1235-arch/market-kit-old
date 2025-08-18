@@ -61,8 +61,8 @@ project.afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.horizontalsystems'
-                artifactId = 'market-kit-android'
+                groupId = 'com.github.abuualii1235-arch'
+                artifactId = 'market-kit-old'
                 version = '1.0.0'
             }
         }
